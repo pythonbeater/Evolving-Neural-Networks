@@ -9,9 +9,9 @@ cd Evolving-Neural-Networks
 pip install -r requirements.txt
 ```
 
-Then you should be able to use the model in `EVV.py`, there is a demonstration in `Report.ipynb`.
+Then you should be able to use the model in `EVV.py`.
 
-This project was made in scope of Neuroevolution, were the objectivo is to build the first stepping stones for a “DENSER-like” framework.
+This project was made in scope of Neuroevolution, were the objective is to build the first stepping stones for a “DENSER-like” framework.
 
 The purpose of this project is to build the first stepping stones for a “DENSER-like” framework.
 Based on the work developed in the practical classes, this project will consist of:

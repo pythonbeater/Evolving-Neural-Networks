@@ -1,4 +1,16 @@
 # Evolving-Neural-Networks
+
+### __Setup Environment__
+
+After cloning the repository, please make sure you have the following requirements installed by running:
+
+```shell
+cd Evolving-Neural-Networks                                       
+pip install -r requirements.txt
+```
+
+Then you should be able to use the model in `EVV.py`, there is a demonstration in `Report.ipynb`.
+
 This project was made in scope of Neuroevolution, were the objectivo is to build the first stepping stones for a “DENSER-like” framework.
 
 The purpose of this project is to build the first stepping stones for a “DENSER-like” framework.
